@@ -1,0 +1,744 @@
+<?xml version="1.0"?>
+<!DOCTYPE TEI.2 PUBLIC "-//TEI P4//DTD Main DTD Driver File//EN" 
+    "http://www.tei-c.org/Guidelines/DTD/tei2.dtd" [ 
+        <!ENTITY % TEI.XML "INCLUDE"> 
+        <!ENTITY % PersProse PUBLIC "-//Perseus P4//DTD Perseus Prose//EN" 
+         "http://www.perseus.tufts.edu/DTD/1.0/PersProse.dtd" > %PersProse; ]> 
+<TEI.2>
+    <teiHeader type="text" status="new">
+        <fileDesc>
+            <titleStmt>
+                <title type="work">De Rebus Bellicis</title>
+                <title type="sub">Machine readable text</title>
+                <author>Anonymi Auctoris De Rebus Bellicis</author>
+            </titleStmt>
+            <publicationStmt>
+                <p>This electronic text adapted by http://decommentariis.net/ from Creative Commons
+                    licensed material published by the University of Oxford Text Archive.</p>
+                <p>Original URL http://ota.ahds.ac.uk/desc/0309</p>
+                <p>
+                    <orgName type="OTA">University of Oxford Text Archive</orgName>
+                    <orgName type="OUCS">Oxford University Computing Services</orgName>
+                    <placeName>Oxford</placeName>
+                    <address> <addrLine>13 Banbury Road</addrLine> <addrLine>Oxford</addrLine> <addrLine>OX2 6NN</addrLine> </address>
+                </p>
+                <p>http://creativecommons.org/licenses/by-nc-sa/3.0/</p>
+                <p>Distributed by the University of Oxford under a Creative Commons
+                    Attribution-NonCommercial-ShareAlike 3.0 Unported License.</p>
+            </publicationStmt>
+            <notesStmt>
+                <note anchored="yes">Mode of access: Online. OTA website</note>
+                <note anchored="yes">Mode of access: Offline. Application to OTA</note>
+                <note anchored="yes">Title proper taken from title of electronic text</note>
+            </notesStmt>
+
+            <sourceDesc>
+                <biblStruct>
+                    <monogr>
+                        <author>Anonymi Auctoris De Rebus Bellicis</author>
+                        <title>De Rebus Bellicis</title>
+                        <editor role="editor"/>
+                        <imprint>
+                            <pubPlace/>
+                            <publisher/>
+                            <date/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <refsDecl doctype="TEI.2">
+                <state unit="chapter"/>
+                <state unit="section"/>
+            </refsDecl>
+        </encodingDesc>
+        <profileDesc>
+            <langUsage>
+                <language id="la">Latin</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div1 type="chapter" n="PR">
+                <div2 type="section" n="1">
+                    <p> caelesti semper instinctu felicis reipublicae uestrae commoditas,
+                        sacratissimi principes, opportunis est suggerenda temporibus ut diuina
+                        consilia diuinis successibus conualescant. </p>
+                </div2>
+                <div2 type="section" n="2">
+                    <p> unde pro ingenii facultate unum capitulum de largitionum utilitate in hoc
+                        libello composui, non quod istud tam inmensae utilitati sufficiat sed ut ex
+                        hoc mediocritatis meae documento praemisso in reliquis utilitatis possit
+                        fides oste+ ndi. </p>
+                </div2>
+                <div2 type="section" n="3">
+                    <p> proinde, ne promissioni fides accommodata uelut fallacem in posterum grauet,
+                        pro conscientia ueritatis ipse mihi poenam praemii loco, si promissio secus
+                        cesserit, posco, nec me laus aut praemium prosequatur cum abunde sit in hac
+                        parte indignationem pro audacia declinare. </p>
+                </div2>
+                <div2 type="section" n="4">
+                    <p> sed fas erit reipublicae praesulem a priuato desiderata cognoscere, cum
+                        rerum utilitas interdum eum lateat inquirentem. </p>
+                </div2>
+                <div2 type="section" n="5">
+                    <p> ergo nonnumquam inuitandi sunt qui recte quicquam sentire fuerint approbati:
+                        nam ut ait optimus orator, ad illum maior pars hominum decurrit quem ingenio
+                        natura donauerit. </p>
+                </div2>
+                <div2 type="section" n="6">
+                    <p> in qua re est considerare semper quid unusquisque magis sentiat quam
+                        loquatur; constat enim apud omnes quod nec summa nobilitas nec opum
+                        affluentia aut subnix+ ae tribunalibus potestates aut eloquentia litteris
+                        acquisita consecuta est utilitates artium, in quibus etiam armorum
+                        continetur inuentio, sed ingenii tantummodo magnitudo quae uirtutum omnium
+                        mater est, naturae felicitate subnixa. </p>
+                </div2>
+                <div2 type="section" n="7">
+                    <p> quod quidem sine personarum electione uidemus accidere; nam cum barbarae
+                        nationes neque facundia polleant aut dignitatibus illustrentur, minime tamen
+                        a rerum inuentione, natura opitulante, habentur alienae. </p>
+                </div2>
+                <div2 type="section" n="8">
+                    <p> quamobrem, clementissimi principes, qui gloriam bonae opinionis perpetua
+                        felicitate diligitis, qui romano nomini debitos affectus propagatis in
+                        filios, respicere dignemini quae nostris sensibus commoda prouidentia
+                        diuinitatis intulerit. </p>
+                </div2>
+                <div2 type="section" n="9">
+                    <p> uniuersis igitur seu militiam clementiae uestrae tractantibus seu otio
+                        priuato contentis uel terrae cultoribus siue negotiatoribus mercium lucra
+                        tractantibus pro saeculi uestri felicitate gaudentibus, consequemini ex hoc
+                        opere commoda singulorum, quorum species diuersis titulis opportunis
+                        quibusque locis oratio subiecta testabitur. </p>
+                </div2>
+                <div2 type="section" n="10">
+                    <p> referemus enim quemadmodum, remissa tributorum medietate, in robur proprium
+                        prouinciarum cultor habeatur: unde etiam, in ratione exactionum cessante
+                        contumelia, limitum solitudinem erectis castrorum munitionibus incola
+                        securus illustret: quo etiam pacto auri argenti que modus sine dantium poena
+                        du+ plicetur: uel quo argumento extra solitam largitatem cumulatus honoribus
+                        miles exultet. </p>
+                </div2>
+                <div2 type="section" n="11">
+                    <p> his etiam adnectenda credidimus quae bellorum necessitatibus terra uel mari
+                        in acquirendis uictoriis procurentur: ex quibus, fastidii leuandi gratia,
+                        pauca machinarum inuenta referemus. </p>
+                </div2>
+                <div2 type="section" n="12">
+                    <p> docebimus igitur uelocissimum liburnae genus decem nauibus ingenii
+                        magisterio praeualere ita ut hae per eam sine auxilio cuiusquam turbae
+                        obruantur. </p>
+                </div2>
+                <div2 type="section" n="13">
+                    <p> in terrenis uero congressibus talis est excogitata sollertia ut equus, siue
+                        aciem rupturus inuadat siue fugientibus ingerat se, tali arte muniatur ut
+                        semet+ ipsum uerberans sine cuiusquam magisterio efficiat magnas hostium
+                        strages. </p>
+                </div2>
+                <div2 type="section" n="14">
+                    <p> in fluuiorum quoque difficultatibus exquisita est noui pontis inuentio
+                        minime subuectioni onerosa; hunc enim pontem amnibus paludibus que
+                        necessarium perpauci homines aut quinquaginta fere numero iumenta portabunt.
+                    </p>
+                </div2>
+                <div2 type="section" n="15">
+                    <p> ex his igitur quae rettulimus, iam futuris ut arbitror designatis, pace
+                        uestra dixerim, magnum uobis munus concessu diuinitatis apporto, asserens
+                        prouidentia pietatis uestrae armorum uigorem et cunctam rempublicam
+                        praedictis remediis subleuandam; quae quidem non ignota sunt proximis
+                        uestrae clementiae, quos alia plura sollicitant a nobis aliena. </p>
+                </div2>
+                <div2 type="section" n="16">
+                    <p> uerum quia illos multa occupatos effugiunt, otio persuasus, non adeo a rerum
+                        commoditatibus peregrinus, utilia uestrae felicitati undique redacta
+                        conferre gestiui. </p>
+                </div2>
+                <div2 type="section" n="17">
+                    <p> si quid uero liberius oratio mea pro rerum necessitate protulerit, aestimo
+                        uenia protegendum, cum mihi promissionis implendae gratia subueniendum est
+                        propter philosophiae libertatem. </p>
+                </div2>
+            </div1>
+            <div1 type="chapter" n="1">
+                <div2 type="section" n="1">
+                    <p> bellicam laudem et gloriam triumphorum utilitas intuea+ tur aerarii, ne
+                        profusa largitio semina magis excitet proeliorum; quae si prouidentia
+                        maiestatis reprimatur, non amplius bellorum florebit improbitas sed
+                        collatorum potius defecta subsidia recreantur. </p>
+                </div2>
+                <div2 type="section" n="2">
+                    <p> quod si largitio immoderata seruanda profuderit, opum delectabilitas nullo
+                        uet+ ustatis more poterit iam necessitatibus subuenire. </p>
+                </div2>
+                <div2 type="section" n="3">
+                    <p> quamobrem patrum nobis est paulisper prouidentia referenda quam in rebus
+                        egenis habuerint, uel quae nunc ita in tanta facultatum licentia uideatur.
+                    </p>
+                </div2>
+                <div2 type="section" n="4">
+                    <p> rectores superioris uitae non otiosis opibus sed condendis potius moenibus
+                        lae+ tabantur, in quorum decorem uniuersam auri argenti que materiam
+                        conferebant. </p>
+                </div2>
+                <div2 type="section" n="5">
+                    <p> aeris quoque copiam in simulacris propriis ad uirtutis suae testimonia
+                        figura+ bant. </p>
+                </div2>
+                <div2 type="section" n="6">
+                    <p> ut uero emendi et uendendi utilitas et ut facultas regiae largitati
+                        suppeteret, in aeris usum excultam politius terram et igne solidatam, certis
+                        quoque express+ ionibus figuratam, auro argento que reposito usui habuerunt.
+                    </p>
+                </div2>
+                <div2 type="section" n="7">
+                    <p> sed posteriores fastidientes priscae uilitatis inuentum formatos e coriis
+                        orbes auro modico signauerunt, quibus regum munificentia et commutationum
+                        necessitas intactis collatoribus utebatur. </p>
+                </div2>
+                <div2 type="section" n="8">
+                    <p> sequentior uero aetas, aeris redundante materia quam publicus iam moenium
+                        recusabat ornatus, diuturna ut prior monumenta meditata aes ualidum ipso
+                        ponde+ re pretiosius figurauit; cuius species pro qualitate, ut diximus,
+                        ponderis diuturnior fuit, sed potentia regalis pro licentia speciem suam
+                        tantum in auro argento que signauit, quae pro reuerentia figurae nullis
+                        usibus proficiens ad honorem regium sacrata permansit. </p>
+                </div2>
+                <div2 type="section" n="9">
+                    <p> aeris autem materia quae iam pro copia uilior erat ad dona militaria et
+                        uaria populorum commercia signabatur. </p>
+                </div2>
+                <div2 type="section" n="10">
+                    <p> sed ut uera fides dicta facilius prosequatur, formas et species commodas
+                        atque pro temporibus diuersas uarias que ueterum prouisiones exprimi colorum
+                        qualitatibus properaui. </p>
+                </div2>
+            </div1>
+            <div1 type="chapter" n="2">
+                <div2 type="section" n="1">
+                    <p> constantini temporibus profusa largitio aurum pro aere quod antea magni
+                        pretii habebatur uilibus commerciis assignauit, sed huius auaritiae origo
+                        hinc creditur emanasse. </p>
+                </div2>
+                <div2 type="section" n="2">
+                    <p> cum enim antiquitus aurum argentum que et lapidum pretiosorum magna uis in
+                        templis reposita ad publicum peruenisset, cunctorum dandi habendi que
+                        cupiditates accendit. </p>
+                </div2>
+                <div2 type="section" n="3">
+                    <p> et cum aeris ipsius quod regum, ut diximus, fuerat uultu signatum enormis
+                        iam et grauis erogatio uideretur, nihilo+ minus tamen a caecitate quadam ex
+                        auro quod pretiosus habetur profusior erogandi diligentia fuit. </p>
+                </div2>
+                <div2 type="section" n="4">
+                    <p> ex hac auri copia priuatae potentium repletae domus in perniciem pauperum
+                        clariores effectae, tenuioribus uidelicet uiolentia oppressis. </p>
+                </div2>
+                <div2 type="section" n="5">
+                    <p> sed afflicta paupertas in uarios scelerum conatus accensa nullam reuerentiam
+                        iu+ ris aut pietatis affectum prae oculis habens uindictam suam malis
+                        artibus commendauit. </p>
+                </div2>
+                <div2 type="section" n="6">
+                    <p> nam saepe grauissimis damnis affecit imperia populando agros, quietem
+                        latrociniis persequendo, inflammando odia, et per gradus criminum fouit
+                        tyrannos quos ad gloriam uirtutis tuae produxit inopia magis quam succendit
+                        audacia. </p>
+                </div2>
+                <div2 type="section" n="7">
+                    <p> erit igitur curae prudentiae tuae, optime imperator, repressa largitate et
+                        collatori prospicere et in posterum nominis tui gloriam propagare. </p>
+                </div2>
+                <div2 type="section" n="8">
+                    <p> denique paulisper felicium temporum reuolue memoriam et antiquae paupertatis
+                        famosa regna considera, quae agros colere et abstinere opibus norant, qua
+                        haec honoris laude per omne aeuum frugalitas incorrupta commendet. </p>
+                </div2>
+                <div2 type="section" n="9">
+                    <p> certe aurea nuncupamus quae aurum penitus non habebant. </p>
+                </div2>
+            </div1>
+            <div1 type="chapter" n="3">
+                <div2 type="section" n="1">
+                    <p> inter damna reipublicae non ferenda, solidorum figura aliquantorum fraudibus
+                        deprauata diuersa populos ratione sollicitat et regiae maiestatis imaginem,
+                        dum per monetae culpam refutatur, imminuit: ementis enim eundem solidum
+                        fraudulenta calliditas et uendentis damnosa necessitas difficultatem quandam
+                        ipsis contractibus intulerunt, ne rebus possit interesse simplicitas. </p>
+                </div2>
+                <div2 type="section" n="2">
+                    <p> ergo huic quoque parti maiestatis uestrae est ut in omnibus adhibenda
+                        correctio, ita ut opifices monetae redacti undique in unam insulam
+                        congregentur nummariis et solidorum usibus profuturi, a societate uidelicet
+                        in perpetuum contiguae terrae prohibiti ne commixtionis licentia fraudibus
+                        opportuna integritatem publicae utilitatis obfuscet. </p>
+                </div2>
+                <div2 type="section" n="3">
+                    <p> illic enim solitudine suffragante integra fides monetae praestabitur, nec
+                        erit fraudi locus ubi nulla est mercis occasio. </p>
+                </div2>
+                <div2 type="section" n="4">
+                    <p> uerum ut qualitas futurae discussionis appareat, formas et magnitudinem tam
+                        aereae quam aureae figurationis pictura praenuntiante subieci. </p>
+                </div2>
+            </div1>
+            <div1 type="chapter" n="4">
+                <div2 type="section" n="1">
+                    <p> ad haec igitur incommoda quae prouincias auaritiae artibus uexant, accedit
+                        etiam iudicum execranda cupiditas collatorum utilitatibus inimica: nam hi
+                        despecta reuerentia dignitatum uelut mercatores in prouincias se missos
+                        existimant, eo grauiores quod ab his procedit iniquitas unde debuit sperari
+                        medicina. </p>
+                </div2>
+                <div2 type="section" n="2">
+                    <p> et tamquam sua rebus sufficere non possit iniquitas, exactores in
+                        profligandis rebus huiusmodi dirigit unusquisque qui diuersis rapinarum
+                        artibus collatorum uires exhauriant, uidelicet quasi parum notabiles
+                        haberentur si soli peccarent. </p>
+                </div2>
+                <div2 type="section" n="3">
+                    <p> quae enim ab his occasio fiscalium titulorum illibata peracta est? quae
+                        conuentio sine praeda discessit? </p>
+                </div2>
+                <div2 type="section" n="4">
+                    <p> illis tironum comparatio, equorum uel frumenti coemptio, expensa quoque
+                        moenibus profutura sollemnia lucra sunt et uotiua direptio. </p>
+                </div2>
+                <div2 type="section" n="5">
+                    <p> quod si prouinciae casti et integritatis cupidi moderentur, nec fraudi
+                        usquam relinquetur locus et respublica moribus ditata firmabitur. </p>
+                </div2>
+            </div1>
+            <div1 type="chapter" n="5">
+                <div2 type="section" n="1">
+                    <p> relatis ut uisum est reipublicae incommodis augustis prouisionibus merito
+                        repellendis, ad enormia militum alimenta ratione non incongrua ueniamus,
+                        quorum causa totius tributariae functionis laborat illatio. </p>
+                </div2>
+                <div2 type="section" n="2">
+                    <p> sed ne tantae confusionis molem occupatio augusta fastidiat, breuius tam
+                        diuturni erroris exitum declarabo. </p>
+                </div2>
+                <div2 type="section" n="3">
+                    <p> militaris ordo stipendiis aliquot peractis ubi ad quinque uel eo amplius
+                        annonarum emolumenta peruenerit, ne haec diutius percipiens rempublicam
+                        grauet, honesta missione donatus uacans sibi otio gaudeat absolutus: in
+                        cuius locum posterior succedens totum numerum per certa temporum spatia
+                        expensis grauissimis releuabit. </p>
+                </div2>
+                <div2 type="section" n="4">
+                    <p> quod si numerosior miles de sequentibus scholis in decedentium locum
+                        uocatur, hic quoque pari liberalitate otio donatus abscedat uel ad alium
+                        ordinem cui miles deest locum suppleturus accedat. </p>
+                </div2>
+                <div2 type="section" n="5">
+                    <p> quae res non solum expensis grauidam rempublicam recreabit sed etiam curas
+                        imperatoriae prouisionis imminuet; animabit etiam plures ad militiam quos ab
+                        ea stipendiorum tarditas prohibebat. </p>
+                </div2>
+                <div2 type="section" n="6">
+                    <p> huiusmodi igitur prouisionis utilitas in augmentum prouincialium habet
+                        ueteranos regiis donis opulentos et ad colendos agros adhuc praeualentes
+                        agricolas: habitabunt limites, arabunt quae dudum defenderant loca, et
+                        laborum desiderio potiti, erunt ex milite collatores. </p>
+                </div2>
+                <div2 type="section" n="7">
+                    <p> uerum quia nonnumquam bellorum ruina aut fastidio castrensium munerum
+                        deserta militia de summa integritatis intercipit, tali remedio huiusmodi
+                        damna supplenda sunt, scilicet ut centeni aut quinquageni iuniores extra hos
+                        qui in matriculis continentur habeantur in promptu armis exerciti et minori
+                        ut minori, utpote tirones, stipendio subleuati, in locum amissorum si res
+                        ita tulerit subrogandi. </p>
+                </div2>
+                <div2 type="section" n="8">
+                    <p> his ita prouisis et integritas secura manebit exercitus et damnis non
+                        deerunt matura et parata in primis subsidia. </p>
+                </div2>
+            </div1>
+            <div1 type="chapter" n="6">
+                <div2 type="section" n="1">
+                    <p> in primis sciendum est quod imperium romanum circumlatrantium ubique
+                        nationum perstringat insania et omne latus limitum tecta naturalibus locis
+                        appetat dolosa barbaries. </p>
+                </div2>
+                <div2 type="section" n="2">
+                    <p> nam plerumque memoratae gentes aut siluis teguntur aut extolluntur montibus
+                        aut uindicantur pruinis; nonnullae uagae solitudinibus ac sole nimio
+                        proteguntur. </p>
+                </div2>
+                <div2 type="section" n="3">
+                    <p> sunt quae paludibus fluminibus que defensae nec inueniri facile queunt, et
+                        tamen quietem pacis lacerant inopinatis incursibus. </p>
+                </div2>
+                <div2 type="section" n="4">
+                    <p> ergo huiusmodi nationes, quae aut talibus subsidiis aut ciuitatum
+                        castellorum que moenibus defenduntur, diuersis et nouis armorum sunt
+                        machinis prosequendae. </p>
+                </div2>
+                <div2 type="section" n="5">
+                    <p> uerum ne qua difficultas in excitandis armorum generibus oriatur, imaginem
+                        tormentorum nihil a uero distantem coloribus adumbratam orationi subieci, ut
+                        sit facilis imitandi confectio. </p>
+                </div2>
+            </div1>
+            <div1 type="chapter" n="7">
+                <div2 type="section" n="1">
+                    <p> exemplum ballistae, cuius fabricam ante oculos positam subtilis pictura
+                        testat+ ur. </p>
+                </div2>
+                <div2 type="section" n="2">
+                    <p> subiecta namque rotarum quattuor facilitas, duobus subiunctis et armatis
+                        equis, ad usus hanc bellicos trahit; cuius tanta est utilitas pro artis
+                        industria ut omni latere in hostem sagittas impellat, sagittarii libertatem
+                        et manus imitata. </p>
+                </div2>
+                <div2 type="section" n="3">
+                    <p> habet foramina per quattuor partes, quibus pro commoditate rerum circumducta
+                        et flexa, facillime ad omnes impetus parata consistat. </p>
+                </div2>
+                <div2 type="section" n="4">
+                    <p> quae quidem a fronte cochleae machina et deponitur celerius et erigitur
+                        subleuata. </p>
+                </div2>
+                <div2 type="section" n="5">
+                    <p> sed huius temo in quamuis partem necessitas uocet cita et facili conuersione
+                        deflexus erigitur. </p>
+                </div2>
+                <div2 type="section" n="6">
+                    <p> sciendum est autem quod hoc ballistae genus duorum opera uirorum sagittas ex
+                        se non ut aliae funibus sed radiis intorta iaculatur. </p>
+                </div2>
+            </div1>
+            <div1 type="chapter" n="8">
+                <div2 type="section" n="1">
+                    <p> tichodifrus quod est genus machinae ex rei suae commoditate graeca
+                        appellatione uocabuli sumpsit exordium, eo quod per hunc facilior in murum
+                        paretur ascensus, ante ballistae semper ducendus incessum quo protectior
+                        eadem ballista operetur; erit ergo huius quoque composito uel fabrica utili
+                        et commoda inuentione praeparanda. </p>
+                </div2>
+                <div2 type="section" n="2">
+                    <p> ergo hic idem tichodifrus non altior sed humilior fabricatur ut intra se
+                        possit latenter incendentium celare uestigia: qui, duabus superimpositis
+                        cratibus fixoriis que confixis, intra se tectos ab omni incursione defendit,
+                        duabus sane rotis ad promouendam machinam latenter impulsus. </p>
+                </div2>
+                <div2 type="section" n="2">
+                    <p> cuius axium extremitates et frons necnon et superior latitudo fuscinis et
+                        lanceis armatur diligenter aptatis, ne aggrediendi cuiquam per uacantia
+                        defensore loca, id est superiorem partem, tribuatur facultas. </p>
+                </div2>
+            </div1>
+            <div1 type="chapter" n="9">
+                <div2 type="section" n="1">
+                    <p> parma, hoc est modicus clipeus, fixoriis minutis ad soliditatem sui
+                        diligenter munitus, uarie habetur idoneus: interdum enim operit gestientem,
+                        nonnumquam in fronte tichodifri oppositus uel in temone suspensus munit
+                        inferius latitantes ab incursu comminus uenientum. </p>
+                </div2>
+            </div1>
+            <div1 type="chapter" n="10">
+                <div2 type="section" n="1">
+                    <p> hoc iaculi genus, quod in modum sagittae pennis uidetur instructum, non
+                        arcus neque ballistae pulsu consueuit emitti sed manus impetu et uiribus
+                        elisum in hostem comminus uadit, quod excipienti gemina ratione uidetur
+                        afferre perniciem: aut enim perimit infixum aut sine uulnere dilapsum et in
+                        terram positum plantae calcantis infigitur, eo quod in partem quamlibet si
+                        fuerit conuersum ex latere aculeo ex se eminente inferat uulnus. </p>
+                </div2>
+                <div2 type="section" n="2">
+                    <p> fit autem ex ligno in modum sagittae facto, cui ferrum subtiliter in formam
+                        uenabuli aptatum infigitur, fistula eiusdem ferri parumper extensa, supra
+                        quam, modico interiecto spatio, plumbo adhaerentes aculei uelut tribuli
+                        emergunt. </p>
+                </div2>
+                <div2 type="section" n="3">
+                    <p> in summa autem parte eiusdem iaculi affiguntur pennae celeritatis causa,
+                        tanto uidelicet super easdem pennas relicto spatio quantum digiti potuerint
+                        tenentis amplecti. </p>
+                </div2>
+            </div1>
+            <div1 type="chapter" n="11">
+                <div2 type="section" n="1">
+                    <p> bene extensa et directa uirga accipiet in extremitate sui rotundum et in
+                        acumen deductum ferrum, similibus locis ac in tribulata plumbo et pennis
+                        adhaerentibus, ut plumbi pondere et pennarum celeritate adiuta rotunditas
+                        teli facilius clipeos aduersarii et similiter obstantia ualeat penetrare.
+                    </p>
+                </div2>
+            </div1>
+            <div1 type="chapter" n="12">
+                <div2 type="section" n="1">
+                    <p> huiusmodi pugnacis uehiculi genus quod armis praeter morem uidetur
+                        instructum repperit parthicae pugnae necessitas. </p>
+                </div2>
+                <div2 type="section" n="2">
+                    <p> sed hoc singulis bene munitis inuecti equis duo uiri uestitu et armis e
+                        ferro diligenter muniti citato cursu in pugnam rapiunt; cuius posterior
+                        supra currum pars cultris in ordinem exstantibus communitur, uidelicet ne
+                        facilis a tergo cuiquam praebeatur ascensus. </p>
+                </div2>
+                <div2 type="section" n="3">
+                    <p> falces uero acutissimae axibus eiusdem currus aptantur in lateribus suis
+                        ansulas habentes, quibus innexi funes pro arbitrio duorum equitum laxati
+                        quidem explicant, repressi autem erigunt falces. </p>
+                </div2>
+                <div2 type="section" n="4">
+                    <p> qualia uero huiusmodi machinae funera hostibus immittant uel quas turbatis
+                        ordinibus strages efficiant dicent melius qui usu bella cognoscunt. </p>
+                </div2>
+            </div1>
+            <div1 type="chapter" n="13">
+                <div2 type="section" n="1">
+                    <p> in hoc curriculo, quod singularis equi tractu discurrit quod que unius
+                        hominis arte regitur et uirtute protegitur, eadem est quae in priori curru
+                        armorum facies et ad repellenda tela et ad inferenda pericula, nec distat a
+                        superiore quicquam machina nisi quod superior currus pro magnitudine sui
+                        duobus equis tractus a duobus etiam bellatoribus gubernatur. </p>
+                </div2>
+            </div1>
+            <div1 type="chapter" n="14">
+                <div2 type="section" n="1">
+                    <p> machinae huius admiratio habet nouitatis aliquid; est enim a superioribus
+                        curribus quadam parte dissimilis, hic enim posterior uehiculi pars
+                        uerberibus spontaneis ad incitandos equos et clipeis acuto ferro circumdatis
+                        uelut in propugnaculo positis communitur. </p>
+                </div2>
+                <div2 type="section" n="2">
+                    <p> et est priori quidem currui hac ratione dissimilis, quod hic non ut ibidem
+                        duos equos duorum etiam hominum sed unius tantum sagacitas regit. </p>
+                </div2>
+                <div2 type="section" n="3">
+                    <p> a secundo uero curru hac diuersitate secernitur, quod in illo unus equus et
+                        pondus bellatoris subit dum ipsum equitem portat et occulto temone iugum
+                        trahente minus amplectitur. </p>
+                </div2>
+                <div2 type="section" n="4">
+                    <p> hic etiam licet conuertere laxatis funibus explicatas falces et ad perniciem
+                        hostium longius ab axe porrectas. </p>
+                </div2>
+                <div2 type="section" n="5">
+                    <p> funis uero, quo laxato aut explicantur falces aut represso super eosdem axes
+                        eriguntur, ligatur circulo haerenti catafracto in posterioris lateris parte
+                        exteriore, per quod uestiti equi ad omnes telorum muniuntur incursus. </p>
+                </div2>
+            </div1>
+            <div1 type="chapter" n="15">
+                <div2 type="section" n="1">
+                    <p> inter omnia quae ad usum bellicum prouida posteritatis cogitauit antiquitas,
+                        thoracomachum quoque mira utilitas ad leuamen corporis armorum ponderi et
+                        asperitati subiecit. </p>
+                </div2>
+                <div2 type="section" n="2">
+                    <p> hoc enim uestimenti genus, quod de coactili ad mensuram et tutelam pectoris
+                        humani conficitur, de mollibus lanis timoris sollicitudo sollertia magistra
+                        composuit ut hoc inducto primum lorica uel cliuanus aut his similia
+                        fragilitatem corporis ponderis asperitate non laederent: membra quoque
+                        uestientis inter armorum hiemis que discrimen tali solacio adiuta labori
+                        sufficiant. </p>
+                </div2>
+                <div2 type="section" n="3">
+                    <p> sane ne idem thoracomachus pluuiis uerberatus ingrauescente pondere adficiat
+                        uestientem, de libycis bene confectis pellibus ad instar eiusdem
+                        thoracomachi faciem conueniet superinducere. </p>
+                </div2>
+                <div2 type="section" n="4">
+                    <p> hoc igitur ut diximus thoracomacho inducto, qui graeca appellatione ex
+                        tuitione corporis nomen assumpsit, soccis etiam hoc est calciamentis et
+                        ferratis ocreis inductis, superposita galea et scuto uel gladio lateri
+                        aptato, arreptis lanceis, in plenum pedestrem subiturus pugnam miles
+                        armabitur. </p>
+                </div2>
+            </div1>
+            <div1 type="chapter" n="16">
+                <div2 type="section" n="1">
+                    <p> ne interdum necessario itineri exercitus fluuiorum, quod plerumque euenit,
+                        occursus impediat, remedium ad hanc rem et compendio facile et usu
+                        praecipuum repperit ingeniosa necessitas, quod tali ratione componitur. </p>
+                </div2>
+                <div2 type="section" n="2">
+                    <p> uitulinis pellibus arabica arte mollitis, est enim apud eos praecipua
+                        confectionis cura propter aquam de puteis follibus hauriendam, his igitur ut
+                        dictum est, diligenter sutis, fiunt utres in magnitudinem trium et semis
+                        pedum, ita ut cum idem utres spiritu inflati tumuerint non extollant uterum
+                        sed aequalitate quadam plenitudo ipsa utrium spatia plana perficiat, ex
+                        quorum lateribus loris subter adnexis inuicem colligantur; desuper autem una
+                        parte circulis exstantibus ex altera immittuntur uncini: et ita in formam
+                        pontis adsociata, partibus explicatur integritas. </p>
+                </div2>
+                <div2 type="section" n="3">
+                    <p> sed hoc idem opus obliquo fluuio propter impetum meatus facilius usque ad
+                        alteram explicabitur ripam; quod fixis in utraque ripa ferreis palis, et
+                        funibus ualidis in medio quidem sub ipsis utribus propter incedentium
+                        sustinendum pondus, in marginibus autem firmitatis gratia desuper extensis,
+                        transeundi per fluuium nouo quodam et peregrino itineris apparatu intra
+                        breue temporis spatium praebebit liberam facultatem. </p>
+                </div2>
+                <div2 type="section" n="4">
+                    <p> admonendi praeterea sumus quod super utrium compaginationem cilicia sunt
+                        incedentium substernenda uestigiis ne lubrica pellium confectio insistendi
+                        deneget firmitatem. </p>
+                </div2>
+                <div2 type="section" n="5">
+                    <p> in utraque tamen ripa erunt manuballistae dispositae ne hostilis manus
+                        pontem operantibus impedimento consistat. </p>
+                </div2>
+            </div1>
+            <div1 type="chapter" n="17">
+                <div2 type="section" n="1">
+                    <p> liburnam naualibus idoneam bellis, quam pro magnitudine sui uirorum exerceri
+                        manibus quodammodo imbecillitas humana prohibebat, quocumque utilitas uocat
+                        ad facilitatem cursus ingenii ope subnixa animalium uirtus impe+ llit. </p>
+                </div2>
+                <div2 type="section" n="2">
+                    <p> in cuius alueo uel capacitate bini boues machinis adiuncti adhaerentes rotas
+                        nauis lateribus uoluunt, quarum supra ambitum uel rotunditatem exstantes
+                        radii currentibus iisdem rotis in modum remorum aquam conatibus elidentes
+                        miro quodam artis effectu operantur, impetu parturiente discursum. </p>
+                </div2>
+                <div2 type="section" n="3">
+                    <p> haec eadem tamen liburna pro mole sui pro que machinis in semet operantibus
+                        tanto uirium fremitu pugnam capescit ut omnes aduersarias liburnas comminus
+                        uenientes facili attritu comminuat. </p>
+                </div2>
+            </div1>
+            <div1 type="chapter" n="18">
+                <div2 type="section" n="1">
+                    <p> huiusmodi ballistae genus murali defensioni necessarium supra ceteras impetu
+                        et uiribus praeualere usu compertum est: arcu etenim ferreo supra canalem
+                        quo sagitta exprimitur erecto, ualidus nerui funis ferreo unco tractus
+                        eandem sagittam magnis uiribus in hostem dimissus impellit. </p>
+                </div2>
+                <div2 type="section" n="2">
+                    <p> hunc tamen funem non manibus neque uiribus militum trahi fabricae ipsius
+                        magnitudo permittit, sed retro duabus rotis uiri singuli radiorum nisibus
+                        adnitentes funem retrorsum tendunt, pro difficultate rei uiribus machinis
+                        adquisitis. </p>
+                </div2>
+                <div2 type="section" n="3">
+                    <p> ballistam tamen ipsam ad dirigenda seu altius seu humilius tela cochleae
+                        machina prout uocet utilitas nunc erigit nunc deponit. </p>
+                </div2>
+                <div2 type="section" n="4">
+                    <p> hoc tamen mirae uirtutis argumentum; tot rerum diuersitate connexum unius
+                        tantum otiosi ut ita dicam hominis ad offerendam tantummodo impulsioni
+                        sagittam opera gubernat: uidelicet ne, si hominum turba huius ministerio
+                        inseruiret, minueretur artis inuentio. </p>
+                </div2>
+                <div2 type="section" n="5">
+                    <p> ex hac igitur ballista tot et tantis ingenii artibus comminuta expressum
+                        telum in tantum longius uadit ut etiam danubii, famosi pro magnitudine
+                        fluminis, latitudinem ualeat penetrare. </p>
+                </div2>
+                <div2 type="section" n="6">
+                    <p> fulminalis etiam nuncupata, appellatione sua uirium testatur effectum. </p>
+                </div2>
+                <div2 type="section" n="7">
+                    <p> his igitur, inuicte imperator, machinarum quoque inuentionibus communitam
+                        potentiam inuicti duplicabis exercitus, hostium incursibus non ui solum et
+                        uiribus obuiando sed etiam artis ingenio, maxime cum animi sagacitate per
+                        omnia elementa machinas reppereris ualituras. </p>
+                </div2>
+                <div2 type="section" n="8">
+                    <p> nam siue terra sint subeunda discrimina contra desperati hostis audaciam,
+                        falcatis curribus per aperta camporum fugientium agmina persequeris; siue
+                        murum subire temptauerit occulta temeritas, experietur ballistae fidem
+                        antequam ueniat; aut si uictricem exercitus cursum fluuiorum uspiam meatus
+                        impediet, portatilis pontis peculiaris succurret inuentio. </p>
+                </div2>
+                <div2 type="section" n="9">
+                    <p> quod si nauali bello terras fugiens maria hostis obsideat, nouo celeritatis
+                        ingenio terrestri quodammodo ritu rotis et bubus subacta fluctibus liburna
+                        transcurrens restituet sine mora uictoriam. </p>
+                </div2>
+                <div2 type="section" n="10">
+                    <p> quis enim huius uiribus resistet, quae et terrestris uehiculi nititur
+                        firmitate et habet de nauigii facilitate remedium? </p>
+                </div2>
+                <div2 type="section" n="11">
+                    <p> erit praeterea fulminalis ballista felicium limitum custos, quae quanto
+                        minus ad armandam se uirorum ministerium quaerit, tanto est ingenii uirtute
+                        praestantior; quicquid enim opis in ea numerosior manus afferre potuisset,
+                        id sibi artis ingenio dotata largitur. </p>
+                </div2>
+            </div1>
+            <div1 type="chapter" n="19">
+                <div2 type="section" n="1">
+                    <p> cum bellicus apparatus prouocet certamina, ne turba militum confusis
+                        ordinibus uirtus compressa minuatur conueniet ducem spatia ternis agminibus
+                        ordinare, ita ut singula quaeque agmina duobus tantum uirorum milibus
+                        instruantur ne compressa populositas, in perniciem propriam auxiliis
+                        abundans, suis copiis opprimatur. </p>
+                </div2>
+                <div2 type="section" n="2">
+                    <p> conueniet tamen per glaciales euntem militem plagas et thoracomacho muniri
+                        et reliquis ad tutelam pertinentibus rebus prout membrorum poscit utilitas
+                        armari, ut et frigoribus sufficiat et telis possit occurrere; minoribus sane
+                        clipeis assumptis, ne sit, quod usu plerumque euenit, pro armorum latitudine
+                        siluarum densitas inaccessa et amittatur armorum enormitate refugium. </p>
+                </div2>
+                <div2 type="section" n="3">
+                    <p> ad omnia tamen repentina subsidia militarem uiam leuibus portatum uehiculis
+                        ascogefyri comitetur auxilium, quo facilius et latior fluminum superetur
+                        occursus et effugiendi trans fluuium, si res ita tulerit, facilitas
+                        offeratur. </p>
+                </div2>
+                <div2 type="section" n="4">
+                    <p> persarum sane gens, cui praeter ceteras nationes et dolus cordi est et
+                        corpori suppetit uirtus, quadratis est agminibus et maiori bellorum apparatu
+                        superanda; ubi etiam machinarum est omnis quam rettulimus industria
+                        proponenda, quae et uiribus resistat et dolos callidae gentis refutet. </p>
+                </div2>
+                <div2 type="section" n="5">
+                    <p> in huiusmodi igitur congressibus tichodifrus duorum gestatus ministerio
+                        uirorum protegat ballistam multum bellicis subsidiis profuturam. </p>
+                </div2>
+                <div2 type="section" n="6">
+                    <p> sub ipsius ergo tichodifri tegmine latentes scutati usque ad uiciniam
+                        pugnaturi hostis adueniant, qui post detecti protegendi sunt ab omni telorum
+                        nube, eiusdem tichodifri tabulatis, ut meminimus, acutis ferreis communitis.
+                    </p>
+                </div2>
+                <div2 type="section" n="7">
+                    <p> cum uero inclinatum hostium pondus fugae praesidia meditetur, falcatis
+                        curribus exercenda uictoria est quibus fugientium poplites incidantur. </p>
+                </div2>
+                <div2 type="section" n="8">
+                    <p> ubi tamen angustiora loca agmen nequaquam explicari permiserint, coartatam
+                        aciem longus machinarum siue tormentorum ordo circumdet, ne constrictum
+                        latus liberior hostis infestet. </p>
+                </div2>
+                <div2 type="section" n="9">
+                    <p> erit tamen utilior cura si duplex animalium numerus ad subuectionem
+                        tormentorum ducatur, ut sit copia in dubiis rebus uel lassitudini uel
+                        casibus subuenire. </p>
+                </div2>
+            </div1>
+            <div1 type="chapter" n="20">
+                <div2 type="section" n="1">
+                    <p> est praeterea inter commoda reipublicae utilis limitum cura ambientium
+                        ubique latus imperii, quorum tutelae assidua melius castella prospicient,
+                        ita ut millenis interiecta passibus stabili muro et firmissimis turribus
+                        erigantur, quas quidem munitiones possessorum distributa sollicitudo sine
+                        publico sumptu constituat, uigiliis sane in his et agrariis exercendis, ut
+                        prouinciarum quies circumdata quodam praesidii cingulo inlaesa requiescat.
+                    </p>
+                </div2>
+            </div1>
+            <div1 type="chapter" n="21">
+                <div2 type="section" n="1">
+                    <p> diuina prouidentia, sacratissime imperator, domi foris que reipublicae
+                        praesidiis comparatis, restat unum de tua serenitate remedium ad ciuilium
+                        curarum medicinam, ut confusas legum contrarias que sententias, improbitatis
+                        reiecto litigio, iudicio augustae dignationis illumines. </p>
+                </div2>
+                <div2 type="section" n="2">
+                    <p> quid enim sic ab honestate constitit alienum quam ibidem studia exerceri
+                        certandi ubi iustitia profitente discernuntur merita singulorum? </p>
+                </div2>
+            </div1>
+        </body>
+    </text>
+</TEI.2>
